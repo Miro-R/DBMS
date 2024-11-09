@@ -1,0 +1,1 @@
+python3 0-generate_data.py
